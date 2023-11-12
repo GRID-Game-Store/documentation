@@ -5,7 +5,7 @@
 
 >  *Enter the MySQL container:*
 
-    docker exec -it grid-mysql-container bash
+    docker exec -it grid-mysql bash
 
 > *Connect to MySQL using the command:*
 
