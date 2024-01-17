@@ -1,4 +1,5 @@
 **PROJECT CONFIGURATION CREDENTIALS:**  
+For localhost:
 `DB_USERNAME=spring;DB_PASSWORD=spring;DB_URL=jdbc:mysql://localhost:3306/GridDB?allowPublicKeyRetrieval=true&useSSL=false`
 
 **BEFORE USING THE BACKEND, USE THIS COMMANDS FIRST (after docker-compose file was executed):**
