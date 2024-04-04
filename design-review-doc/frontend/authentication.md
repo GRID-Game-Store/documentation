@@ -1,12 +1,10 @@
 ## Table of Contents
 
 * [Task Overview](#task-overview)
-* [Code Review Process](#code-review)
+* [Code Documentation](#code-review)
 * [Shame File](#shame-file)
 
 ## Task Overview <a name="task-overview"></a>
-This task solves the problem of playing games on our site.
-
 * Init Next Auth 
 * Connect to Keyclok
   
@@ -15,6 +13,8 @@ https://youtu.be/-HsldaBdIPQ
 
 
 # Shema 
+
+![image](https://github.com/GRID-Game-Store/documentation/assets/60855065/eb057743-20af-4c91-b2e8-1c3d4bca622c)
 
 
 
