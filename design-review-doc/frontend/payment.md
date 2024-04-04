@@ -5,8 +5,6 @@
 * [Shame File](#shame-file)
 
 ## Task Overview <a name="task-overview"></a>
-This task solves the problem of playing games on our site.
-
 * Payment with the help of Stripe, PayPal, and balance in site and recharge balance.
 * Payment with the help of Stripe, PayPal, and Balance.
 * Revert transaction when the client cancels payment.
